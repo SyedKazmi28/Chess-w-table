@@ -1,0 +1,33 @@
+table {
+  border-left: grey solid 5px;
+  border-top: grey solid 5px;
+  border-right: black solid 5px;
+  border-bottom: black solid 5px;
+  margin-top: 20px;
+}
+td {
+  height: 60px;
+  width: 60px;
+}
+table tr td{
+    border: 1px black solid;
+    
+}
+td img {
+  width: 30px;
+  height: 40px;
+  align-content: center;
+  margin-left: 16px;
+}
+
+.box1 {
+  background-color: whitesmoke;
+}
+.box2 {
+  background-color: #a0b445;
+}
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+}
